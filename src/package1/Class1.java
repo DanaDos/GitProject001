@@ -8,8 +8,9 @@ public class Class1 {
 		
 		
 		//Hello everyone
-		//Welcom to Git Sessions
+		//Welcome to Git Sessions
 		//Thank you for joining
+		//Here is a new commit
 	}
 
 }

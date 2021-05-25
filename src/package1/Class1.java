@@ -6,6 +6,9 @@ public class Class1 {
 	
 	public static void main(String[] args) {
 		
+		
+		//Hello everyone
+		//Welcom to Git Sessions
 	}
 
 }
